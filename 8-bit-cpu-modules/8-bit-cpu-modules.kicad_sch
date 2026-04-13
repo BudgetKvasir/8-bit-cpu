@@ -1937,7 +1937,7 @@
 			)
 		)
 		(instances
-			(project "shift_register_alu"
+			(project "8-bit-cpu-modules"
 				(path "/a49b78ee-9c6f-4249-a731-b0180e8a7f04"
 					(page "2")
 				)
@@ -1979,7 +1979,7 @@
 			)
 		)
 		(instances
-			(project "shift_register_alu"
+			(project "8-bit-cpu-modules"
 				(path "/a49b78ee-9c6f-4249-a731-b0180e8a7f04"
 					(page "6")
 				)
@@ -2142,7 +2142,7 @@
 			)
 		)
 		(instances
-			(project "shift_register_alu"
+			(project "8-bit-cpu-modules"
 				(path "/a49b78ee-9c6f-4249-a731-b0180e8a7f04"
 					(page "5")
 				)
@@ -2443,7 +2443,7 @@
 			)
 		)
 		(instances
-			(project "shift_register_alu"
+			(project "8-bit-cpu-modules"
 				(path "/a49b78ee-9c6f-4249-a731-b0180e8a7f04"
 					(page "4")
 				)
@@ -2684,7 +2684,7 @@
 			)
 		)
 		(instances
-			(project "shift_register_alu"
+			(project "8-bit-cpu-modules"
 				(path "/a49b78ee-9c6f-4249-a731-b0180e8a7f04"
 					(page "3")
 				)
